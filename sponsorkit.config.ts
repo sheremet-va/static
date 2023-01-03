@@ -13,7 +13,7 @@ export default defineConfig({
     },
     {
       title: "Sponsors",
-      monthlyDollars: 16,
+      monthlyDollars: 8,
       preset: {
         avatar: {
           size: 42,
@@ -30,15 +30,15 @@ export default defineConfig({
       monthlyDollars: 64,
       preset: presets.medium,
     },
-    {
-      title: "Favorite Sponsors",
-      monthlyDollars: 128,
-      preset: presets.large,
-    },
-    {
-      title: "Platinum Sponsors",
-      monthlyDollars: 256,
-      preset: presets.xl,
-    },
+    // {
+    //   title: "Favorite Sponsors",
+    //   monthlyDollars: 128,
+    //   preset: presets.large,
+    // },
+    // {
+    //   title: "Platinum Sponsors",
+    //   monthlyDollars: 256,
+    //   preset: presets.xl,
+    // },
   ],
 });
