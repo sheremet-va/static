@@ -28,17 +28,17 @@ export default defineConfig({
     {
       title: "Gold Sponsors",
       monthlyDollars: 64,
+      preset: presets.medium,
+    },
+    {
+      title: "Platinum Sponsors",
+      monthlyDollars: 256,
       preset: presets.large,
     },
-    // {
-    //   title: "Favorite Sponsors",
-    //   monthlyDollars: 128,
-    //   preset: presets.large,
-    // },
-    // {
-    //   title: "Platinum Sponsors",
-    //   monthlyDollars: 256,
-    //   preset: presets.xl,
-    // },
+    {
+      title: "Big Sponsors",
+      monthlyDollars: 512,
+      preset: presets.xl,
+    },
   ],
 });
