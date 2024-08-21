@@ -188,6 +188,23 @@
   },
   {
     "sponsor": {
+      "login": "roboflow",
+      "name": "Roboflow",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53104118?v=4",
+      "type": "Organization",
+      "avatarUrlHighRes": "data:image/PNG;base64,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",
+      "avatarUrlMediumRes": "data:image/PNG;base64,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",
+      "avatarUrlLowRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAS1BMVEVMaXFmBc1mBc1mBc1lBctmBc1mBc1mBc5mBc1iBMZlBcxnBc7////8+/5eAMtqC89iAM3t4vl7J9Sqc+PbxPO9kuqYV97MrO+KP9lR7eOgAAAAC3RSTlMAu97qT6R9/NAMPNq0qIEAAAAJcEhZcwAACxMAAAsTAQCanBgAAAKfSURBVHjarVbZkuMwCBzntAcESJaP///SLQRSlGtmN7V6SOVQB+huwF9f/+9M079cPl3Ow3g4jMP5cvob4Ol8hO4cz6ffACMAXLsDAONPoO+x3O+jlI/j9zvERW/A09HvLq+rHgAcwAwgIvrOQADDCx6msQJAiIQ5JQYi8UgwTu8RQrwuOZazzUnIk3vCDIZgobREvJ2Qd/I4w2PlhqC06L3bQcSNxTB3HHx7FbRGBdQIwV5y8op6rr0Qmv1ezDnHgFjAAXOloNO8QyDGZWcQgbRmj4YzccGc7oMwzRoizOzUCsnqYSI/hLEgtJccErl+qiOtXpbRdgtztrwyBtxAmLl5hUm/xICrQ86u4lEhtGLARfSvCZiLXSzZHnKcbnmx5qAIkl213wqxDqmJtcxcRlh3RexO06IkMW0YWvk3Ob0UIOLCMxbRNRWmVNTEhSrk3NtLGZIFLXecjedSPYbUDD300uuNzW5gtNxpsT8oSXbKTAeH1FqLOKymdkRurF/hMPUQ1dIqF2Fg4s0QLa0GaYmRpYUzWRtER+zURRn78uWOHVqDIWKHaOUbyVZJwI1upg5oZamvpSf54hBLvSTeEAuIIjhbm1UpvVtUAw9iRAQMZi2t0lqmGkZteTVRajNls0lJyhtJozRbWjGsKphlab9H7DV6M39tsdWjVCJmR6RYS+w62ZWJ5o0KWQtXOnRCrWR8GBelyaLqXhMTkbQpD5vAw7jwMMVTqhxHM1vesptMHodSHX3q/U1Kh4Zg7tE38dXoq51Jc0D9nZY2ZVFj8POAbUajtBZHyVynbJxFXo7xuixYvGV1AcQY88z044K5tr2l7AInFrKkXiHa4mvLssxl4B8W39v1en2/Xj9a4p88Knz0QPLRY89HD1e/nT8Z51GPQL2icwAAAABJRU5ErkJggg=="
+    },
+    "isOneTime": false,
+    "monthlyDollars": 5,
+    "privacyLevel": "PUBLIC",
+    "tierName": "$5 a month",
+    "createdAt": "2024-08-19T19:51:00Z",
+    "provider": "github"
+  },
+  {
+    "sponsor": {
       "login": "DefinedNet",
       "name": "DefinedNet",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58627432?v=4",
@@ -215,7 +232,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Tue, 20 Aug 2024 00:14:33 GMT",
+    "createdAt": "Wed, 21 Aug 2024 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -230,7 +247,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Sun, 21 Jul 2024 00:14:33 GMT",
+    "createdAt": "Mon, 22 Jul 2024 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -245,7 +262,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Fri, 21 Jun 2024 00:14:33 GMT",
+    "createdAt": "Sat, 22 Jun 2024 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -260,7 +277,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Wed, 22 May 2024 00:14:33 GMT",
+    "createdAt": "Thu, 23 May 2024 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -275,7 +292,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Mon, 22 Apr 2024 00:14:33 GMT",
+    "createdAt": "Tue, 23 Apr 2024 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -290,7 +307,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Sat, 23 Mar 2024 00:14:33 GMT",
+    "createdAt": "Sun, 24 Mar 2024 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -305,7 +322,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Thu, 22 Feb 2024 00:14:33 GMT",
+    "createdAt": "Fri, 23 Feb 2024 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -320,7 +337,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Tue, 23 Jan 2024 00:14:33 GMT",
+    "createdAt": "Wed, 24 Jan 2024 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -335,7 +352,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Sun, 24 Dec 2023 00:14:33 GMT",
+    "createdAt": "Mon, 25 Dec 2023 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -350,7 +367,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Fri, 24 Nov 2023 00:14:33 GMT",
+    "createdAt": "Sat, 25 Nov 2023 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -365,7 +382,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Wed, 25 Oct 2023 00:14:33 GMT",
+    "createdAt": "Thu, 26 Oct 2023 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -380,7 +397,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Mon, 25 Sep 2023 00:14:33 GMT",
+    "createdAt": "Tue, 26 Sep 2023 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -395,7 +412,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Sat, 26 Aug 2023 00:14:33 GMT",
+    "createdAt": "Sun, 27 Aug 2023 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -410,7 +427,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Thu, 27 Jul 2023 00:14:33 GMT",
+    "createdAt": "Fri, 28 Jul 2023 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -425,7 +442,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Tue, 27 Jun 2023 00:14:33 GMT",
+    "createdAt": "Wed, 28 Jun 2023 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -440,7 +457,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Sun, 28 May 2023 00:14:33 GMT",
+    "createdAt": "Mon, 29 May 2023 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -455,7 +472,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Fri, 28 Apr 2023 00:14:33 GMT",
+    "createdAt": "Sat, 29 Apr 2023 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -470,7 +487,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Wed, 29 Mar 2023 00:14:33 GMT",
+    "createdAt": "Thu, 30 Mar 2023 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -485,7 +502,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Tue, 20 Aug 2024 00:14:33 GMT",
+    "createdAt": "Wed, 21 Aug 2024 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -500,7 +517,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Sun, 21 Jul 2024 00:14:33 GMT",
+    "createdAt": "Mon, 22 Jul 2024 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -515,7 +532,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Fri, 21 Jun 2024 00:14:33 GMT",
+    "createdAt": "Sat, 22 Jun 2024 00:14:11 GMT",
     "provider": "github"
   },
   {
@@ -530,7 +547,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Wed, 22 May 2024 00:14:33 GMT",
+    "createdAt": "Thu, 23 May 2024 00:14:11 GMT",
     "provider": "github"
   }
 ]
