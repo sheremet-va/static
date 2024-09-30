@@ -56,6 +56,14 @@
     "org": true
   },
   {
+    "name": "翠 / green",
+    "login": "sapphi-red",
+    "avatar": "https://avatars.githubusercontent.com/u/49056869?u=ec70859392ec0140d60446f7815ad2bf857904fd&v=4",
+    "amount": 5,
+    "link": "https://github.com/sapphi-red",
+    "org": false
+  },
+  {
     "name": "Ari Perkkiö",
     "login": "AriPerkkio",
     "avatar": "https://avatars.githubusercontent.com/u/14806298?u=3ddd26d15c2ad4193edd0e8bc6070510748bd211&v=4",
@@ -77,14 +85,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/1759726?u=2970ef751fdda4bef09d29245a3128dd815d6219&v=4",
     "amount": 4,
     "link": "https://github.com/jdk2pq",
-    "org": false
-  },
-  {
-    "name": "翠 / green",
-    "login": "sapphi-red",
-    "avatar": "https://avatars.githubusercontent.com/u/49056869?u=ec70859392ec0140d60446f7815ad2bf857904fd&v=4",
-    "amount": 3,
-    "link": "https://github.com/sapphi-red",
     "org": false
   },
   {
