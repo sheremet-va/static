@@ -40,14 +40,6 @@
     "org": true
   },
   {
-    "name": "Gustav Hansen",
-    "login": "gu-stav",
-    "avatar": "https://avatars.githubusercontent.com/u/2244375?u=5240e0f277601e08bdcffd579e395a57f8b23e3f&v=4",
-    "amount": 8,
-    "link": "https://github.com/gu-stav",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -190,6 +182,14 @@
     "amount": -1,
     "link": "https://github.com/infosupport",
     "org": true
+  },
+  {
+    "name": "gu-stav",
+    "login": "gu-stav",
+    "avatar": "https://avatars.githubusercontent.com/u/2244375?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/gu-stav",
+    "org": false
   },
   {
     "name": "geersch",
