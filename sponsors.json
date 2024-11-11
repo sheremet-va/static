@@ -80,14 +80,6 @@
     "org": false
   },
   {
-    "name": "Codecov",
-    "login": "codecov",
-    "avatar": "https://avatars.githubusercontent.com/u/8226205?v=4",
-    "amount": 3,
-    "link": "https://github.com/codecov",
-    "org": true
-  },
-  {
     "name": "yyx990803",
     "login": "yyx990803",
     "avatar": "https://avatars.githubusercontent.com/u/499550?s=60&v=4",
@@ -262,6 +254,14 @@
     "amount": -1,
     "link": "https://github.com/cyco130",
     "org": false
+  },
+  {
+    "name": "codecov",
+    "login": "codecov",
+    "avatar": "https://avatars.githubusercontent.com/u/8226205?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/codecov",
+    "org": true
   },
   {
     "name": "beatfactor",
