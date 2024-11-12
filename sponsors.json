@@ -64,14 +64,6 @@
     "org": false
   },
   {
-    "name": "Sentry",
-    "login": "getsentry",
-    "avatar": "https://avatars.githubusercontent.com/u/1396951?v=4",
-    "amount": 4,
-    "link": "https://github.com/getsentry",
-    "org": true
-  },
-  {
     "name": "Jake Kenneally",
     "login": "jdk2pq",
     "avatar": "https://avatars.githubusercontent.com/u/1759726?u=2970ef751fdda4bef09d29245a3128dd815d6219&v=4",
@@ -184,6 +176,14 @@
     "org": false
   },
   {
+    "name": "getsentry",
+    "login": "getsentry",
+    "avatar": "https://avatars.githubusercontent.com/u/1396951?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/getsentry",
+    "org": true
+  },
+  {
     "name": "geersch",
     "login": "geersch",
     "avatar": "https://avatars.githubusercontent.com/u/1782629?s=60&v=4",
@@ -254,14 +254,6 @@
     "amount": -1,
     "link": "https://github.com/cyco130",
     "org": false
-  },
-  {
-    "name": "codecov",
-    "login": "codecov",
-    "avatar": "https://avatars.githubusercontent.com/u/8226205?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/codecov",
-    "org": true
   },
   {
     "name": "beatfactor",
