@@ -72,6 +72,14 @@
     "org": false
   },
   {
+    "name": "Syntax",
+    "login": "syntaxfm",
+    "avatar": "https://avatars.githubusercontent.com/u/130389858?v=4",
+    "amount": 1,
+    "link": "https://github.com/syntaxfm",
+    "org": true
+  },
+  {
     "name": "yyx990803",
     "login": "yyx990803",
     "avatar": "https://avatars.githubusercontent.com/u/499550?s=60&v=4",
