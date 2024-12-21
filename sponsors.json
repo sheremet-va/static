@@ -184,14 +184,6 @@
     "org": false
   },
   {
-    "name": "getsentry",
-    "login": "getsentry",
-    "avatar": "https://avatars.githubusercontent.com/u/1396951?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/getsentry",
-    "org": true
-  },
-  {
     "name": "geersch",
     "login": "geersch",
     "avatar": "https://avatars.githubusercontent.com/u/1782629?s=60&v=4",
