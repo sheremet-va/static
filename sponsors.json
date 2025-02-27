@@ -40,6 +40,14 @@
     "org": true
   },
   {
+    "name": "Aviva Solutions B.V.",
+    "login": "avivasolutionsnl",
+    "avatar": "https://avatars.githubusercontent.com/u/8927455?v=4",
+    "amount": 10,
+    "link": "https://github.com/avivasolutionsnl",
+    "org": true
+  },
+  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
