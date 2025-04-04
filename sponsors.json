@@ -8,6 +8,14 @@
     "org": true
   },
   {
+    "name": "Artem Zakharchenko",
+    "login": "kettanaito",
+    "avatar": "https://avatars.githubusercontent.com/u/14984911?u=5b45b9f402753f42d0136c6c558223f71e8acf61&v=4",
+    "amount": 100,
+    "link": "https://github.com/kettanaito",
+    "org": false
+  },
+  {
     "name": "RTVision",
     "login": "RTVision",
     "avatar": "https://avatars.githubusercontent.com/u/8292810?v=4",
