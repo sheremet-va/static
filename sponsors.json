@@ -80,14 +80,6 @@
     "org": false
   },
   {
-    "name": "Jake Kenneally",
-    "login": "jdk2pq",
-    "avatar": "https://avatars.githubusercontent.com/u/1759726?u=2970ef751fdda4bef09d29245a3128dd815d6219&v=4",
-    "amount": 4,
-    "link": "https://github.com/jdk2pq",
-    "org": false
-  },
-  {
     "name": "Syntax",
     "login": "syntaxfm",
     "avatar": "https://avatars.githubusercontent.com/u/130389858?v=4",
@@ -181,6 +173,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/3660030?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/luckylooke",
+    "org": false
+  },
+  {
+    "name": "jdk2pq",
+    "login": "jdk2pq",
+    "avatar": "https://avatars.githubusercontent.com/u/1759726?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/jdk2pq",
     "org": false
   },
   {
