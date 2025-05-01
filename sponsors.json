@@ -1,13 +1,5 @@
 [
   {
-    "name": "StackBlitz",
-    "login": "stackblitz",
-    "avatar": "https://avatars.githubusercontent.com/u/28635252?v=4",
-    "amount": 512,
-    "link": "https://github.com/stackblitz",
-    "org": true
-  },
-  {
     "name": "Artem Zakharchenko",
     "login": "kettanaito",
     "avatar": "https://avatars.githubusercontent.com/u/14984911?u=5b45b9f402753f42d0136c6c558223f71e8acf61&v=4",
@@ -134,6 +126,14 @@
     "amount": -1,
     "link": "https://github.com/thetarnav",
     "org": false
+  },
+  {
+    "name": "stackblitz",
+    "login": "stackblitz",
+    "avatar": "https://avatars.githubusercontent.com/u/28635252?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/stackblitz",
+    "org": true
   },
   {
     "name": "silvenon",
