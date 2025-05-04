@@ -8,14 +8,6 @@
     "org": true
   },
   {
-    "name": "Artem Zakharchenko",
-    "login": "kettanaito",
-    "avatar": "https://avatars.githubusercontent.com/u/14984911?u=5b45b9f402753f42d0136c6c558223f71e8acf61&v=4",
-    "amount": 100,
-    "link": "https://github.com/kettanaito",
-    "org": false
-  },
-  {
     "name": "RTVision",
     "login": "RTVision",
     "avatar": "https://avatars.githubusercontent.com/u/8292810?v=4",
@@ -64,7 +56,7 @@
     "org": true
   },
   {
-    "name": "翠 / green",
+    "name": "翠",
     "login": "sapphi-red",
     "avatar": "https://avatars.githubusercontent.com/u/49056869?u=ec70859392ec0140d60446f7815ad2bf857904fd&v=4",
     "amount": 5,
@@ -173,6 +165,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/3660030?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/luckylooke",
+    "org": false
+  },
+  {
+    "name": "kettanaito",
+    "login": "kettanaito",
+    "avatar": "https://avatars.githubusercontent.com/u/14984911?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/kettanaito",
     "org": false
   },
   {
