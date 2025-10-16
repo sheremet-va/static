@@ -1,5 +1,13 @@
 [
   {
+    "name": "Mintlify",
+    "login": "mintlify",
+    "avatar": "https://avatars.githubusercontent.com/u/93011474?v=4",
+    "amount": 512,
+    "link": "https://github.com/mintlify",
+    "org": true
+  },
+  {
     "name": "StackBlitz",
     "login": "stackblitz",
     "avatar": "https://avatars.githubusercontent.com/u/28635252?v=4",
@@ -29,6 +37,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/583075?u=c2ea71ad847aecf66885e68d81a876fff1486bdd&v=4",
     "amount": 64,
     "link": "https://github.com/patak-dev",
+    "org": false
+  },
+  {
+    "name": "Ulrich Stark",
+    "login": "ulrichstark",
+    "avatar": "https://avatars.githubusercontent.com/u/8657779?u=5cfc779c824faea1372da82157a469a581318f60&v=4",
+    "amount": 20,
+    "link": "https://github.com/ulrichstark",
     "org": false
   },
   {
