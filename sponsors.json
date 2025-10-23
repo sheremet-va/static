@@ -48,12 +48,28 @@
     "org": false
   },
   {
+    "name": "Paulius Varna",
+    "login": "varna",
+    "avatar": "https://avatars.githubusercontent.com/u/6717694?u=908c18656c722176de0a3036565eb681e8ee0d62&v=4",
+    "amount": 16,
+    "link": "https://github.com/varna",
+    "org": false
+  },
+  {
     "name": "DefinedNet",
     "login": "DefinedNet",
     "avatar": "https://avatars.githubusercontent.com/u/58627432?v=4",
     "amount": 16,
     "link": "https://github.com/DefinedNet",
     "org": true
+  },
+  {
+    "name": "Sam Chung",
+    "login": "samchungy",
+    "avatar": "https://avatars.githubusercontent.com/u/18017094?u=7335680de0030e00cc3b75429216550fc8dcfd54&v=4",
+    "amount": 10,
+    "link": "https://github.com/samchungy",
+    "org": false
   },
   {
     "name": "Aviva Solutions B.V.",
