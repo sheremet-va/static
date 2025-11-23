@@ -56,14 +56,6 @@
     "org": true
   },
   {
-    "name": "Sam Chung",
-    "login": "samchungy",
-    "avatar": "https://avatars.githubusercontent.com/u/18017094?u=7335680de0030e00cc3b75429216550fc8dcfd54&v=4",
-    "amount": 10,
-    "link": "https://github.com/samchungy",
-    "org": false
-  },
-  {
     "name": "Aviva Solutions B.V.",
     "login": "avivasolutionsnl",
     "avatar": "https://avatars.githubusercontent.com/u/8927455?v=4",
@@ -157,6 +149,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/471278?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/silvenon",
+    "org": false
+  },
+  {
+    "name": "samchungy",
+    "login": "samchungy",
+    "avatar": "https://avatars.githubusercontent.com/u/18017094?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/samchungy",
     "org": false
   },
   {
