@@ -2,7 +2,8 @@
   "type": "module",
   "packageManager": "pnpm@9.6.0",
   "scripts": {
-    "build": "sponsorkit"
+    "build:personal": "sponsorkit",
+    "build:vitest": "SPONSORS_VITEST=true sponsorkit"
   },
   "devDependencies": {
     "@types/node": "^22.5.4",

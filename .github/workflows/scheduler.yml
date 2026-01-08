@@ -22,11 +22,18 @@ jobs:
 
       - run: corepack enable && pnpm i
 
-      - name: Update sponsors
-        run: npm run build
+      - name: Update sponsors (sheremet-va)
+        run: npm run build:personal
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORS_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: sheremet-va
+
+      - name: Update sponsors (Vitest)
+        run: npm run build:vitest
+        env:
+          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORS_VITEST_TOKEN }}
+          SPONSORKIT_GITHUB_LOGIN: vitest-dev
+          SPONSORKIT_GITHUB_TYPE: 'organization'
 
       - name: Commit
         uses: EndBug/add-and-commit@v9
