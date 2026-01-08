@@ -11,7 +11,7 @@ export default defineConfig({
       preset: tierPresets.large,
     },
     {
-      preset: tierPresets.xs,
+      preset: tierPresets.none,
     },
   ],
 
