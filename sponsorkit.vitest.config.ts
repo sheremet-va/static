@@ -10,6 +10,9 @@ export default defineConfig({
       monthlyDollars: 500,
       preset: tierPresets.large,
     },
+    {
+      preset: tierPresets.small,
+    },
   ],
 
   outputDir: './vitest',
