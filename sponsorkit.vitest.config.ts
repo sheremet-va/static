@@ -12,7 +12,7 @@ export default defineConfig({
       composeBefore(_, sponsors) {
         sponsors.forEach(({ sponsor }) => {
           if(sponsor.name === 'Chromatic') {
-            sponsor.websiteUrl = 'https://www.chromatic.com/?utm_source=vitest&utm_medium=sponsorship&utm_campaign=vitestSponsorship'
+            sponsor.websiteUrl = 'https://www.chromatic.com/?utm_source=vitest&amp;utm_medium=sponsorship&amp;utm_campaign=vitestSponsorship'
           }
         })
       }
