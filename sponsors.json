@@ -24,6 +24,14 @@
     "org": false
   },
   {
+    "name": "clawdbot",
+    "login": "clawdbot",
+    "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
+    "amount": 16,
+    "link": "https://github.com/clawdbot",
+    "org": true
+  },
+  {
     "name": "Paulius Varna",
     "login": "varna",
     "avatar": "https://avatars.githubusercontent.com/u/6717694?u=908c18656c722176de0a3036565eb681e8ee0d62&v=4",
