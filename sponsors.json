@@ -8,6 +8,14 @@
     "org": true
   },
   {
+    "name": "Mintlify",
+    "login": "mintlify",
+    "avatar": "https://avatars.githubusercontent.com/u/93011474?v=4",
+    "amount": 256,
+    "link": "https://github.com/mintlify",
+    "org": true
+  },
+  {
     "name": "Anthony Fu",
     "login": "antfu",
     "avatar": "https://avatars.githubusercontent.com/u/11247099?u=5c092d3773a443e480a294f2b67aa39395982f46&v=4",
@@ -64,11 +72,11 @@
     "org": true
   },
   {
-    "name": "이동길",
-    "login": "MoveRoad",
+    "name": "DongGil-Lee",
+    "login": "gilverse-icn",
     "avatar": "https://avatars.githubusercontent.com/u/64388032?u=ddf508bf038ca649ba2769f4ac948f5208defbb5&v=4",
     "amount": 5,
-    "link": "https://github.com/MoveRoad",
+    "link": "https://github.com/gilverse-icn",
     "org": false
   },
   {
