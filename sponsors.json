@@ -32,11 +32,11 @@
     "org": false
   },
   {
-    "name": "clawdbot",
-    "login": "clawdbot",
+    "name": "moltbot",
+    "login": "moltbot",
     "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
     "amount": 16,
-    "link": "https://github.com/clawdbot",
+    "link": "https://github.com/moltbot",
     "org": true
   },
   {
