@@ -96,14 +96,6 @@
     "org": false
   },
   {
-    "name": "Ari Perkkiö",
-    "login": "AriPerkkio",
-    "avatar": "https://avatars.githubusercontent.com/u/14806298?u=3ddd26d15c2ad4193edd0e8bc6070510748bd211&v=4",
-    "amount": 4,
-    "link": "https://github.com/AriPerkkio",
-    "org": false
-  },
-  {
     "name": "Syntax",
     "login": "syntaxfm",
     "avatar": "https://avatars.githubusercontent.com/u/130389858?v=4",
@@ -325,6 +317,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/419506?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/beatfactor",
+    "org": false
+  },
+  {
+    "name": "AriPerkkio",
+    "login": "AriPerkkio",
+    "avatar": "https://avatars.githubusercontent.com/u/14806298?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/AriPerkkio",
     "org": false
   },
   {
