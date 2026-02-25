@@ -72,14 +72,6 @@
     "org": true
   },
   {
-    "name": "DongGil-Lee",
-    "login": "gilverse-icn",
-    "avatar": "https://avatars.githubusercontent.com/u/64388032?u=ddf508bf038ca649ba2769f4ac948f5208defbb5&v=4",
-    "amount": 5,
-    "link": "https://github.com/gilverse-icn",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -237,6 +229,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/2244375?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/gu-stav",
+    "org": false
+  },
+  {
+    "name": "gilverse-icn",
+    "login": "gilverse-icn",
+    "avatar": "https://avatars.githubusercontent.com/u/64388032?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/gilverse-icn",
     "org": false
   },
   {
