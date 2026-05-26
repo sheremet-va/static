@@ -22,11 +22,11 @@ jobs:
 
       - run: corepack enable && pnpm i
 
-      - name: Update sponsors (sheremet-va)
-        run: npm run build:personal
-        env:
-          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORS_TOKEN }}
-          SPONSORKIT_GITHUB_LOGIN: sheremet-va
+      # - name: Update sponsors (sheremet-va)
+      #   run: npm run build:personal
+      #   env:
+      #     SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORS_TOKEN }}
+      #     SPONSORKIT_GITHUB_LOGIN: sheremet-va
 
       - name: Update sponsors (Vitest)
         run: npm run build:vitest
