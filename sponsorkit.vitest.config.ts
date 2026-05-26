@@ -55,8 +55,8 @@ export default defineConfig({
           },
         ]
         sponsors.push(...customSponsors)
-        console.log(sponsors)
         await resolveAvatars(customSponsors, '')
+        console.log(sponsors)
       }
     },
     {
