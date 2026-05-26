@@ -7,6 +7,6 @@
   },
   "devDependencies": {
     "@types/node": "^22.5.4",
-    "sponsorkit": "^0.15.4"
+    "sponsorkit": "^17.1.1"
   }
 }
