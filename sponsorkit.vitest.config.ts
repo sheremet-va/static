@@ -5,9 +5,9 @@ export default defineConfig({
     {
       monthlyDollars: -1,
       preset: tierPresets.xs,
-      composeBefore(_, sponsors) {
-        sponsors.length = 0
-      }
+      // composeBefore(_, sponsors) {
+      //   sponsors.length = 0
+      // }
     },
     {
       monthlyDollars: 100,
