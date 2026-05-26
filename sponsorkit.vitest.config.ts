@@ -50,7 +50,7 @@ export default defineConfig({
           linkUrl: 'https://github.com/stackblitz/'
         },
         isOneTime: false,
-        provider: 'github',
+        provider: 'custom',
         privacyLevel: 'PUBLIC',
       },
     ]
