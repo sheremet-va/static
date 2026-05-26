@@ -44,13 +44,13 @@ export default defineConfig({
         sponsor: {
           type: 'Organization',
           login: 'stackblitz',
-          name: 'Bolt',
-          avatarUrl: 'https://vitest.dev/bolt.svg',
+          name: 'Stackblitz',
+          avatarUrl: 'https://avatars.githubusercontent.com/u/28635252?v=4',
           websiteUrl: 'https://bolt.new/',
           linkUrl: 'https://github.com/stackblitz/'
         },
         isOneTime: false,
-        provider: 'custom',
+        provider: 'github',
         privacyLevel: 'PUBLIC',
       },
     ]
