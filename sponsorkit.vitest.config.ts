@@ -22,6 +22,7 @@ export default defineConfig({
             sponsor.websiteUrl = 'https://www.chromatic.com/?utm_source=vitest&amp;utm_medium=sponsorship&amp;utm_campaign=vitestSponsorship'
           }
         })
+        console.log(sponsors)
         sponsors.push({
           monthlyDollars: 1000,
           sponsor: {
