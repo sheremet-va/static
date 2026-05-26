@@ -2,6 +2,12 @@ import { defineConfig, tierPresets, type Sponsorship } from "sponsorkit";
 
 export default defineConfig({
   onSponsorsFetched(sponsors) {
+    sponsors.forEach(({ sponsor }) => {
+      if(sponsor.name === 'Chromatic') {
+        sponsor.websiteUrl = 'https://www.chromatic.com/?utm_source=vitest&amp;utm_medium=sponsorship&amp;utm_campaign=vitestSponsorship'
+      }
+    })
+
     const customSponsors: Sponsorship[] = [
       // vercel (via antfu)
       {
@@ -33,32 +39,36 @@ export default defineConfig({
         provider: 'github',
         privacyLevel: 'PUBLIC',
       },
+      {
+        monthlyDollars: 350,
+        sponsor: {
+          type: 'Organization',
+          login: 'stackblitz',
+          name: 'Bolt',
+          avatarUrl: 'https://vitest.dev/bolt.svg',
+          websiteUrl: 'https://bolt.new/',
+          linkUrl: 'https://github.com/stackblitz/'
+        },
+        isOneTime: false,
+        provider: 'github',
+        privacyLevel: 'PUBLIC',
+      },
     ]
 
     return [...sponsors, ...customSponsors]
   },
   tiers: [
     {
-      monthlyDollars: -1,
-      preset: tierPresets.xs,
-      // composeBefore(_, sponsors) {
-      //   sponsors.length = 0
-      // }
-    },
-    {
       monthlyDollars: 100,
       preset: tierPresets.medium,
     },
     {
-      monthlyDollars: 500,
+      monthlyDollars: 300,
       preset: tierPresets.large,
-      async composeBefore(_, sponsors) {
-        sponsors.forEach(({ sponsor }) => {
-          if(sponsor.name === 'Chromatic') {
-            sponsor.websiteUrl = 'https://www.chromatic.com/?utm_source=vitest&amp;utm_medium=sponsorship&amp;utm_campaign=vitestSponsorship'
-          }
-        })
-      }
+    },
+    {
+      monthlyDollars: 500,
+      preset: tierPresets.xl,
     },
     {
       preset: tierPresets.none,
