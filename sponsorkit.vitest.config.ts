@@ -9,7 +9,7 @@ export default defineConfig({
         sponsor.websiteUrl = 'https://www.chromatic.com/?utm_source=vitest&amp;utm_medium=sponsorship&amp;utm_campaign=vitestSponsorship'
       }
       if (sponsor.login === 'LambdaTest-Inc') {
-        sponsor.websiteUrl = 'https://www.testmuai.com/?utm_medium=sponsor&utm_source=vitest-dev'
+        sponsor.websiteUrl = 'https://www.testmuai.com/?utm_medium=sponsor&amp;utm_source=vitest-dev'
       }
       console.log(`${sponsor.name} (${sponsor.login}) sponsors ${data.monthlyDollars}`)
     })
