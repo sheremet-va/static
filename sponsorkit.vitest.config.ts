@@ -4,14 +4,14 @@ export default defineConfig({
   onSponsorsFetched(sponsors) {
     sponsors.forEach((data) => {
       const sponsor = data.sponsor
-      if(sponsor.name === 'Chromatic') {
+      if(sponsor.login === 'chromaui') {
         data.monthlyDollars = 4000
         sponsor.websiteUrl = 'https://www.chromatic.com/?utm_source=vitest&amp;utm_medium=sponsorship&amp;utm_campaign=vitestSponsorship'
       }
-      if (sponsor.name === 'TestMu') {
+      if (sponsor.login === 'LambdaTest-Inc') {
         sponsor.websiteUrl = 'https://www.testmuai.com/?utm_medium=sponsor&utm_source=vitest-dev'
       }
-      console.log(`${sponsor.name} sponsors ${data.monthlyDollars}`)
+      console.log(`${sponsor.name} (${sponsor.login}) sponsors ${data.monthlyDollars}`)
     })
 
     const customSponsors: Sponsorship[] = [
