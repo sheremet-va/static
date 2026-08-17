@@ -2,7 +2,8 @@ import { defineConfig, tierPresets, type Sponsorship } from "sponsorkit";
 
 export default defineConfig({
   onSponsorsFetched(sponsors) {
-    sponsors.forEach(({ sponsor, ...data }) => {
+    sponsors.forEach((data) => {
+      const sponsor = data.sponsor
       if(sponsor.name === 'Chromatic') {
         data.monthlyDollars = 4000
         sponsor.websiteUrl = 'https://www.chromatic.com/?utm_source=vitest&amp;utm_medium=sponsorship&amp;utm_campaign=vitestSponsorship'
