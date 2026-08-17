@@ -2,16 +2,20 @@ import { defineConfig, tierPresets, type Sponsorship } from "sponsorkit";
 
 export default defineConfig({
   onSponsorsFetched(sponsors) {
-    sponsors.forEach(({ sponsor }) => {
+    sponsors.forEach(({ sponsor, ...data }) => {
       if(sponsor.name === 'Chromatic') {
+        data.monthlyDollars = 4000
         sponsor.websiteUrl = 'https://www.chromatic.com/?utm_source=vitest&amp;utm_medium=sponsorship&amp;utm_campaign=vitestSponsorship'
+      }
+      if (sponsor.name === 'TestMu') {
+        sponsor.websiteUrl = 'https://www.testmuai.com/?utm_medium=sponsor&utm_source=vitest-dev'
       }
     })
 
     const customSponsors: Sponsorship[] = [
       // vercel (via antfu)
       {
-        monthlyDollars: 1000,
+        monthlyDollars: 4000,
         sponsor: {
           type: 'Organization',
           login: 'vercel',
@@ -26,7 +30,7 @@ export default defineConfig({
       },
       // zammad (via sheremet-va)
       {
-        monthlyDollars: 1000,
+        monthlyDollars: 4000,
         sponsor: {
           type: 'Organization',
           login: 'zammad',
@@ -40,7 +44,7 @@ export default defineConfig({
         privacyLevel: 'PUBLIC',
       },
       {
-        monthlyDollars: 350,
+        monthlyDollars: 500,
         sponsor: {
           type: 'Organization',
           login: 'stackblitz',
@@ -67,7 +71,7 @@ export default defineConfig({
       preset: tierPresets.large,
     },
     {
-      monthlyDollars: 500,
+      monthlyDollars: 4000,
       preset: tierPresets.xl,
     },
     {
