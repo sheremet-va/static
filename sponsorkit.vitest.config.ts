@@ -11,6 +11,7 @@ export default defineConfig({
       if (sponsor.name === 'TestMu') {
         sponsor.websiteUrl = 'https://www.testmuai.com/?utm_medium=sponsor&utm_source=vitest-dev'
       }
+      console.log(`${sponsor.name} sponsors ${data.monthlyDollars}`)
     })
 
     const customSponsors: Sponsorship[] = [
