@@ -45,20 +45,6 @@ export default defineConfig({
         provider: 'github',
         privacyLevel: 'PUBLIC',
       },
-      {
-        monthlyDollars: 500,
-        sponsor: {
-          type: 'Organization',
-          login: 'stackblitz',
-          name: 'Stackblitz',
-          avatarUrl: 'https://avatars.githubusercontent.com/u/28635252?v=4',
-          websiteUrl: 'https://bolt.new/',
-          linkUrl: 'https://github.com/stackblitz/'
-        },
-        isOneTime: false,
-        provider: 'github',
-        privacyLevel: 'PUBLIC',
-      },
     ]
 
     return [...sponsors, ...customSponsors]
